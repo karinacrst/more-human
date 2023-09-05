@@ -1,0 +1,38 @@
+body {
+  background-color: #f6f6f6;
+  margin: 0%
+ }
+h1 {
+  font-size: 100px;
+  font-style: strong;
+  font-weight: 100px;
+  font-family: Quicksand;
+  text-indent: 50px;
+  line-height: 1.5;
+  word-spacing: 10px;
+  padding: 30px;
+  margin: auto;
+  width: 3400px; /* Defina a largura do box conforme necessário */
+  padding: 20px; /* Adicione um preenchimento interno para o conteúdo */
+  border-radius: 5px; /* Arredonde as bordas do box */
+  background-color: #d1eef0; /* Defina uma cor de fundo para o box */
+}
+a:link {
+  font-family: Quicksand;
+  color: white;
+  background-color: green;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+a:hover {
+  color: #ffffff;
+  backgroung-color: #002900;
+}
+a:active {
+  color: green;
+  backgorund-color: green;
+}
+#mapa {
+  background-color: green;
+}
